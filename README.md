@@ -1,6 +1,6 @@
 # AI-Proj2
 COMP30024 Artificial Intelligence Project 2
-
+(Wenqiang Kuang & Pei-Yun Sun)
 
 In our design, minimax decision rule is used as the basic strategy, which always yields the player his best worst-case expectation. Alpha-beta pruning is used as well, to reduce the number of child nodes to explore in executing minimax algorithm. 
 
